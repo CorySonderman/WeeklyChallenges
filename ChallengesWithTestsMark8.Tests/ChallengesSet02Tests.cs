@@ -12,6 +12,7 @@ namespace ChallengesWithTestsMark8.Tests
             ChallengesSet02 challenger = new ChallengesSet02();
             string lowercaseAlphabet = "abcdefghijklmnopqrstuvwxyz";
 
+
             // Check all letters
             foreach (char letter in lowercaseAlphabet)
             {
